@@ -1,0 +1,106 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+
+}
+
+.total{
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin: auto;
+  width: 800px;
+  height: 700px;
+  border-radius: 20px;
+  padding: 30px;
+
+}
+
+header{
+  width: 500px;
+  text-align: center;
+  margin:auto;
+  padding: 20px;
+}
+.logo{
+width: 200px;
+}
+
+.text-logo{
+  text-align: center;
+  padding: 10px;
+  font-size: 25PX;
+  color: #00ff00;
+}
+
+nav{
+  width: 500px;
+  text-align: center;
+  margin: auto;
+}
+.tasti{
+  text-align: center;
+  background-color: #00ff00;
+  border-radius: 5px;
+}
+
+.testo1{
+text-align: left;
+padding: 10px;
+line-height: 0;
+margin-top: 40px;
+
+}
+
+#quadrato1{
+  width: 200px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px;
+  margin-top: -20px;
+
+}
+
+.testo2{
+text-align: left;
+padding: 10px;
+line-height: 0;
+margin-top: 40px;
+}
+
+#quadrato2{
+  width: 500px;
+  height: 20px;
+  background-color: green;
+  border-radius: 5px;
+  margin-top: -20px;
+}
+
+
+.testo3{
+text-align: left;
+padding: 10px;
+line-height: 0;
+margin-top: 40px;
+}
+
+#quadrato3{
+  width: 100px;
+  height: 20px;
+  background-color: red;
+  border-radius: 5px;
+  margin-top: -20px;
+}
+
+span{
+  color: white;
+}
+.freccia{
+  color: white;
+}
+
+h5{
+  color: white;
+}
+ h6{
+   color: white;
+ }
